@@ -1,1 +1,4 @@
+A Plumbus is an all-purpose home device.
+Everyone in the Rick and Morty universe knows what it does, so nobody ever explains how it works.
+
 created by DmytroY
